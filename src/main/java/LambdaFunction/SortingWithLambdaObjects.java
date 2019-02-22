@@ -31,6 +31,10 @@ public class SortingWithLambdaObjects {
         Collections.sort(students, Comparator.comparing(Student::getName).reversed());
         System.out.println(students);
 
+        //Sort student in ascending order by age
+        Collections.sort(students, Comparator.comparing(Student::getAge));
+        System.out.println(students);
+
     }
 }
 
