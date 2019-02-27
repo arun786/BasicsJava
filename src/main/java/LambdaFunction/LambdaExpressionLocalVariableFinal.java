@@ -30,8 +30,6 @@ public class LambdaExpressionLocalVariableFinal {
 
         shape.shape();
     }
-
-
 }
 
 interface Shape {
