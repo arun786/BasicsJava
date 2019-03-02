@@ -16,8 +16,9 @@
     <session id="-656333524">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.128" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.51" value="1" />
@@ -26,18 +27,18 @@
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.78" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="24" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6171" />
+          <entry key="JAVA" value="6425" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="5" />
         </counts>
@@ -46,18 +47,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/array/Anagram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/array/DuplicatesInArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,14 +69,10 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/DefaultMethodInInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
                 <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,15 +81,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/MultipleInheritence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="187">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,30 +94,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/StaticInterfaceMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/ConceptsOfOverridingForStaticMethodsInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/ConceptsOfOverridingForStaticMethodsInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Functioninterface/PredicateFunction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="323">
+              <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
               <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#775#776#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#900#901#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -211,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/main/java/LambdaFunction/MultipleInheritence.java" />
         <option value="$PROJECT_DIR$/src/main/java/LambdaFunction/StaticInterfaceMethod.java" />
         <option value="$PROJECT_DIR$/src/main/java/LambdaFunction/ConceptsOfOverridingForStaticMethodsInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Functioninterface/PredicateFunction.java" />
       </list>
     </option>
   </component>
@@ -239,7 +219,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,13 +265,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551410400407" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551543711681" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/aws" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -308,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConceptsOfOverridingForStaticMethodsInterface">
+  <component name="RunManager" selected="Application.PredicateFunction">
     <configuration name="ConceptsOfOverridingForStaticMethodsInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LambdaFunction.ConceptsOfOverridingForStaticMethodsInterface" />
       <module name="Java8" />
@@ -335,8 +315,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExpressionLocalVariableFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdaFunction.LambdaExpressionLocalVariableFinal" />
+    <configuration name="MultipleInheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaFunction.MultipleInheritence" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
@@ -348,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleInheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdaFunction.MultipleInheritence" />
+    <configuration name="PredicateFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functioninterface.PredicateFunction" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LambdaFunction.*" />
+          <option name="PATTERN" value="Functioninterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -375,19 +355,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LambdaExpressionLocalVariableFinal" />
       <item itemvalue="Application.DefaultMethodInInterface" />
       <item itemvalue="Application.MultipleInheritence" />
       <item itemvalue="Application.StaticInterfaceMethod" />
       <item itemvalue="Application.ConceptsOfOverridingForStaticMethodsInterface" />
+      <item itemvalue="Application.PredicateFunction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PredicateFunction" />
         <item itemvalue="Application.ConceptsOfOverridingForStaticMethodsInterface" />
         <item itemvalue="Application.StaticInterfaceMethod" />
         <item itemvalue="Application.MultipleInheritence" />
         <item itemvalue="Application.DefaultMethodInInterface" />
-        <item itemvalue="Application.LambdaExpressionLocalVariableFinal" />
       </list>
     </recent_temporary>
   </component>
@@ -409,18 +389,19 @@
       <workItem from="1551102613181" duration="1349000" />
       <workItem from="1551150636418" duration="6644000" />
       <workItem from="1551236963256" duration="2463000" />
-      <workItem from="1551406131283" duration="3598000" />
+      <workItem from="1551406131283" duration="4239000" />
+      <workItem from="1551536780647" duration="950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26002000" />
+    <option name="totallyTimeSpent" value="27593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -511,9 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -576,6 +554,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/LambdaExpressionLocalVariableFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/DefaultMethodInInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/MultipleInheritence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/StaticInterfaceMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1649">
@@ -601,67 +615,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/LambdaExpressionLocalVariableFinal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/DefaultMethodInInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/MultipleInheritence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/StaticInterfaceMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/ConceptsOfOverridingForStaticMethodsInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Functioninterface/PredicateFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
