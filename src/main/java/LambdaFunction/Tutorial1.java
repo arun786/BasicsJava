@@ -3,7 +3,7 @@ package LambdaFunction;
 public class Tutorial1 {
     public static void main(String[] args) {
 
-        print p = () -> System.out.println("This is first lambda function");
+        print p = () -> System.out.println("This is first lambda functions");
         p.print();
 
         add a = (x, y) -> System.out.println(x + y);
