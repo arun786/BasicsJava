@@ -5,7 +5,6 @@ import lombok.Getter;
 import lombok.Setter;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.function.Function;
 
@@ -28,6 +27,17 @@ public class GradeOfStudent {
         };
 
         students.forEach(student -> {
+            System.out.println("Name :" + student.getName());
+            System.out.println("Marks :" + student.getMarks());
+            System.out.println("Grade :" + function.apply(student));
+        });
+
+
+        System.out.println("-----------------------");
+
+        //I want to display name of students only when marks is greater than 60
+
+        students.stream().filter(s -> s.getMarks() > 60).forEach(student -> {
             System.out.println("Name :" + student.getName());
             System.out.println("Marks :" + student.getMarks());
             System.out.println("Grade :" + function.apply(student));
