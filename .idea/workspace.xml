@@ -4,7 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="673a4477-7aff-4c47-8511-78164b11c5d3" name="Default Changelist" comment="" />
+    <list default="true" id="673a4477-7aff-4c47-8511-78164b11c5d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,14 +40,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="59" />
+          <entry key="JAVA" value="60" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13764" />
+          <entry key="JAVA" value="13855" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="6" />
         </counts>
@@ -54,18 +56,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Functioninterface/fuctionInterfacce/EmployeeMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Functioninterface/fuctionInterfacce/EmployeeMainForIncrementing.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,11 +98,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Functioninterface/fuctionInterfacce/FunctionIdentity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Functioninterface/ConsumerInterface/ConsumerAccept.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -225,6 +224,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Functioninterface/fuctionInterfacce/DemoOfFunctionChaining.java" />
         <option value="$PROJECT_DIR$/src/main/java/Functioninterface/fuctionInterfacce/AuthenticateUsingFunction.java" />
         <option value="$PROJECT_DIR$/src/main/java/Functioninterface/fuctionInterfacce/FunctionIdentity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Functioninterface/ConsumerInterface/ConsumerAccept.java" />
       </list>
     </option>
   </component>
@@ -322,7 +322,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552278276215" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552278891291" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/aws" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -342,7 +342,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FunctionIdentity">
+  <component name="RunManager" selected="Application.ConsumerAccept">
     <configuration name="AuthenticateUsingFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Functioninterface.fuctionInterfacce.AuthenticateUsingFunction" />
       <module name="Java8" />
@@ -369,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoOfFunctionChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functioninterface.fuctionInterfacce.DemoOfFunctionChaining" />
+    <configuration name="ConsumerAccept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functioninterface.ConsumerInterface.ConsumerAccept" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functioninterface.fuctionInterfacce.*" />
+          <option name="PATTERN" value="Functioninterface.ConsumerInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,8 +382,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeMainForIncrementing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functioninterface.fuctionInterfacce.EmployeeMainForIncrementing" />
+    <configuration name="DemoOfFunctionChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functioninterface.fuctionInterfacce.DemoOfFunctionChaining" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
@@ -409,19 +409,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EmployeeMainForIncrementing" />
       <item itemvalue="Application.ChainingInFunctionalInterface" />
       <item itemvalue="Application.DemoOfFunctionChaining" />
       <item itemvalue="Application.AuthenticateUsingFunction" />
       <item itemvalue="Application.FunctionIdentity" />
+      <item itemvalue="Application.ConsumerAccept" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsumerAccept" />
         <item itemvalue="Application.FunctionIdentity" />
         <item itemvalue="Application.AuthenticateUsingFunction" />
         <item itemvalue="Application.DemoOfFunctionChaining" />
         <item itemvalue="Application.ChainingInFunctionalInterface" />
-        <item itemvalue="Application.EmployeeMainForIncrementing" />
       </list>
     </recent_temporary>
   </component>
@@ -452,12 +452,12 @@
       <workItem from="1551928930845" duration="3156000" />
       <workItem from="1552191753590" duration="4440000" />
       <workItem from="1552228141864" duration="1512000" />
-      <workItem from="1552276993327" duration="1276000" />
+      <workItem from="1552276993327" duration="1893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54885000" />
+    <option name="totallyTimeSpent" value="55502000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -560,13 +560,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/Tutorial1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/SortingWithLambdaWithMapObject.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/SortingWithoutLambda.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -915,6 +908,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Functioninterface/ConsumerInterface/ConsumerAccept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
