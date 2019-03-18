@@ -26,6 +26,10 @@ public class MovieConsumer {
 
         System.out.println("===use of Lambda====");
         movies.forEach(c);
+
+        //using lambda function
+
+        movies.forEach(c);
     }
 
     static List<Movie> populate() {
