@@ -25,11 +25,16 @@ public class AppleUtil {
         Apple a2 = new Apple("Red", 20);
         Apple a3 = new Apple("Orange", 30);
         Apple a4 = new Apple("Yellow", 40);
+        Apple a5 = new Apple("Yellow", 30);
+        Apple a6 = new Apple("Yellow", 50);
 
         apples.add(a1);
         apples.add(a2);
         apples.add(a3);
         apples.add(a4);
+        apples.add(a5);
+        apples.add(a6);
+
         return apples;
     }
 }
