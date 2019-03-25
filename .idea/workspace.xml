@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="673a4477-7aff-4c47-8511-78164b11c5d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/chapter2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/chapter2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/chapter2/util/AppleUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/chapter2/util/AppleUtil.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,7 +19,7 @@
     <session id="-656333524">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.128" value="1" />
@@ -31,7 +28,9 @@
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.43" value="2" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.49" value="3" />
@@ -47,12 +46,12 @@
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.89" value="1" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="86" />
+          <entry key="JAVA" value="90" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Scratch" value="3" />
@@ -61,8 +60,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18803" />
-          <entry key="Markdown" value="318" />
+          <entry key="JAVA" value="19569" />
+          <entry key="Markdown" value="324" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="12" />
         </counts>
@@ -71,36 +70,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/model/Apple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/util/AppleUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/service/ApplePredicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/service/AppleGreenPredicate.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -114,8 +83,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="395">
-                <caret line="71" column="8" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+              <first_editor relative-caret-position="1377">
+                <caret line="81" column="63" selection-start-line="81" selection-start-column="63" selection-end-line="81" selection-end-column="63" />
               </first_editor>
               <second_editor />
             </state>
@@ -123,10 +92,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Streams/reduce/UseOfReduce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="28" column="52" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="28" selection-end-column="52" />
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,11 +103,50 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/array/Anagram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/array/DuplicatesInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/array/DuplicatesInArrayWhenValuesAreLessThanSizeOfArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="52" selection-start-line="12" selection-start-column="7" selection-end-line="28" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/UseOfSorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+            <state relative-caret-position="901">
+              <caret line="53" column="198" selection-start-line="11" selection-start-column="8" selection-end-line="53" selection-end-column="198" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -190,8 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/LambdaFunction/DefaultMethodInInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LambdaFunction/MultipleInheritence.java" />
         <option value="$PROJECT_DIR$/src/main/java/LambdaFunction/StaticInterfaceMethod.java" />
         <option value="$PROJECT_DIR$/src/main/java/LambdaFunction/ConceptsOfOverridingForStaticMethodsInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/Functioninterface/PredicateFunction.java" />
@@ -238,9 +244,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Streams/chapter2/util/util.java" />
         <option value="$PROJECT_DIR$/src/main/java/Streams/chapter2/model/Apple.java" />
         <option value="$PROJECT_DIR$/src/main/java/Streams/chapter2/Main.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/Streams/chapter2/util/AppleUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/Streams/chapter2/UseOfSorting.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/Streams/reduce/UseOfReduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Algorithms/array/DuplicatesInArrayWhenValuesAreLessThanSizeOfArray.java" />
       </list>
     </option>
   </component>
@@ -269,7 +277,6 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
@@ -281,6 +288,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,6 +321,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Streams" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -321,30 +338,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Streams" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Streams" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="reduce" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553145659404" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553490887802" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/Streams/chapter2" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/aws" />
@@ -368,13 +373,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseOfSorting">
-    <configuration name="IntFunctionTut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functioninterface.PrimitiveTypeFunctionalInterface.IntFunctionTut" />
+  <component name="RunManager" selected="Application.DuplicatesInArrayWhenValuesAreLessThanSizeOfArray">
+    <configuration name="DuplicatesInArrayWhenValuesAreLessThanSizeOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.array.DuplicatesInArrayWhenValuesAreLessThanSizeOfArray" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functioninterface.PrimitiveTypeFunctionalInterface.*" />
+          <option name="PATTERN" value="Algorithms.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,8 +387,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntPrimitiveTypeFunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functioninterface.PrimitiveTypeFunctionalInterface.IntPrimitiveTypeFunctionalInterface" />
+    <configuration name="IntFunctionTut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functioninterface.PrimitiveTypeFunctionalInterface.IntFunctionTut" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
@@ -408,12 +413,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomPawd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functioninterface.supplier.RandomPawd" />
+    <configuration name="UseOfReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.reduce.UseOfReduce" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functioninterface.supplier.*" />
+          <option name="PATTERN" value="Streams.reduce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,19 +440,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RandomPawd" />
-      <item itemvalue="Application.IntPrimitiveTypeFunctionalInterface" />
       <item itemvalue="Application.IntFunctionTut" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.UseOfSorting" />
+      <item itemvalue="Application.UseOfReduce" />
+      <item itemvalue="Application.DuplicatesInArrayWhenValuesAreLessThanSizeOfArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicatesInArrayWhenValuesAreLessThanSizeOfArray" />
+        <item itemvalue="Application.UseOfReduce" />
         <item itemvalue="Application.UseOfSorting" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.IntFunctionTut" />
-        <item itemvalue="Application.IntPrimitiveTypeFunctionalInterface" />
-        <item itemvalue="Application.RandomPawd" />
       </list>
     </recent_temporary>
   </component>
@@ -492,12 +497,14 @@
       <workItem from="1552955808382" duration="132000" />
       <workItem from="1552970167916" duration="2717000" />
       <workItem from="1553052612869" duration="3560000" />
-      <workItem from="1553143267348" duration="2299000" />
+      <workItem from="1553143267348" duration="3592000" />
+      <workItem from="1553470757434" duration="625000" />
+      <workItem from="1553489700938" duration="1584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78723000" />
+    <option name="totallyTimeSpent" value="82225000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,7 +519,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834436" weight="0.3496802" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834436" visible="true" weight="0.35714287" />
       <window_info id="Structure" order="1" sideWeight="0.50165564" side_tool="true" weight="0.2803838" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -601,22 +608,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="897" column="12" selection-start-line="897" selection-start-column="12" selection-end-line="897" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/DcokerFile" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/DockerFile" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaFunction/PredicateIsEqual.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/functions/BasicsOfFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -862,6 +853,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/model/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/util/AppleUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -879,6 +891,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1377">
+            <caret line="81" column="63" selection-start-line="81" selection-start-column="63" selection-end-line="81" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="52" selection-start-line="12" selection-start-column="7" selection-end-line="28" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/UseOfSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="198" selection-start-line="11" selection-start-column="8" selection-end-line="53" selection-end-column="198" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -906,57 +948,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/model/Apple.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/reduce/UseOfReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/array/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/array/DuplicatesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/array/DuplicatesInArrayWhenValuesAreLessThanSizeOfArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="28" column="52" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="28" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="395">
-            <caret line="71" column="8" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/util/AppleUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/chapter2/UseOfSorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>
